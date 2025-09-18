@@ -3,7 +3,7 @@
 
 <img src="images/table.png" alt="tables" width="1000">
 
-**User **
+**User**
 
 <img src="images/user.png" alt="tables" width="1000">
 
